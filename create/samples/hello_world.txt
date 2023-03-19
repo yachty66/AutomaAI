@@ -1,0 +1,13 @@
+Create a Python script which writes "Hello World" into a text file. Write your response in a way that every time you create a script you write first the filename and than the script. At the end write which file needs to be executed so that the program is working like:
+
+Filename: test.py
+
+Script code:
+
+print("hello world")
+
+Run: test.py 
+
+Write your response in the same format with 
+
+"Filename:", "Script code:" and "Run:"

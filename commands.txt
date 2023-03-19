@@ -1,1 +1,0 @@
-Create a Python script which writes "Hello World" into a text file. 
